@@ -1,0 +1,10 @@
+{
+  "name": "01.Restful",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rômulo Silva <romulo_lss@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
